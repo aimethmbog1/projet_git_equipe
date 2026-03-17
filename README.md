@@ -1,0 +1,6 @@
+Projet Git en équipe - TP GIB GITHUB
+TRAVAUX REALISE PAR:
+1-MBOG AIle Thierry
+2- NZONGI ARTHUR
+3- LIEUNOU
+
